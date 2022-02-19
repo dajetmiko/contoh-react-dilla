@@ -1,0 +1,1 @@
+import contohImport from "./src/";
